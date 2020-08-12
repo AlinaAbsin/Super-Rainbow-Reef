@@ -6,7 +6,6 @@ Edition: 2018.6 and Java JRE 1.8.0_161
 ## HOW TO COMPILE, RUN AND PLAY GAME
 Clone repo to Computer, open project in IDE from existing source
 Set working directory to  C:\your file path\Super-Rainbow-Reef
-
 Press the run and build
 The current working directory used for the game relative to the GitHub repo is https://github.com/ValorieV/Super-Rainbow-Reef
 
